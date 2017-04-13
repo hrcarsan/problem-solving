@@ -41,7 +41,6 @@ int main()
       else u -= cons[i];
     }
 
-    //if (t) printf("\n");
     printf("Sequence %d\n", ++t);
 
     if (maxu <= c)
